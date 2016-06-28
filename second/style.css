@@ -1,0 +1,26 @@
+.left{
+  width: 33%;
+  height: 100vh;
+  background: rgb(78, 180, 246);
+  float: left;
+}
+
+.center{
+ width: 33%;
+ height: 100vh;
+ background: rgb(130, 214, 241);
+ float: left;
+}
+
+.right{
+width: 34%;
+height: 80vh;
+background: rgb(188, 233, 174);
+float:left;
+}
+
+.img img{
+  width: 34%;
+  height: 20vh;
+  float:left;
+}
