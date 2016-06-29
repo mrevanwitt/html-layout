@@ -1,0 +1,51 @@
+.first{
+  background: rgb(204, 207, 224);
+  height: 15vh;
+  width: 100%;
+}
+
+.second{
+  background: white;
+  height:25vh;
+  width:100%;
+}
+
+.second p{
+  padding:50px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.third{
+  background: rgb(89, 135, 223);
+  height: 15vh;
+  width: 100%;
+}
+
+.fourth{
+  background: rgb(115, 223, 220);
+  height:15vh;
+  width: 100%;
+}
+
+.fifth{
+  background: rgb(182, 221, 161);
+  height: 15vh;
+  width: 100%;
+}
+
+.sixth{
+  background: rgb(241, 229, 67);
+  height: 15vh;
+  width: 100%;
+}
+
+.box{
+  background: rgb(89, 135, 223);
+  width: 11%;
+  height: 11vh;
+  position: relative;
+  left:3%;
+  top: 13%;
+
+}
